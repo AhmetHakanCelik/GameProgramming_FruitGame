@@ -19,5 +19,7 @@ Kullanığım Assetler:
 - https://pixabay.com/music/modern-country-train-country-blues-rock-131593/
 - https://pixabay.com/sound-effects/swoosh-18-46746/
 - https://pixabay.com/music/acoustic-group-acoustic-vibe-124586/
+- https://www.dafont.com/thaleahfat.font
+- https://www.dafont.com/unity-titling.font
 
 
