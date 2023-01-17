@@ -18,5 +18,5 @@ Zaman
 
 Ekip Arkadaşımın Script Dosyaları:
 Spawner
-Sepet_Anim
-Score
+ Sepet_Anim
+ Score
