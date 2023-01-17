@@ -12,6 +12,9 @@ Spawner
 Sepet_Anim
 Score
 
+##itch.io linki
+-https://ahmethakancelik.itch.io/fruit-game
+
 Kullanığım Assetler:
 - https://www.dreamstime.com/cooking-doodles-background-horizontal-blue-background-white-doodles-food-ingredients-outline-sketch-vegetables-image162471912
 - https://www.pngwing.com/tr/free-png-vovnt
