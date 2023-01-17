@@ -1,8 +1,8 @@
 # GameProgramming_FruitGame
 
-Tuslar:
-Sol Ok:Sola Git
-Sağ Ok:Sağa Git
+- Tuslar:
+- Sol Ok:Sola Git
+- Sağ Ok:Sağa Git
 
 Yazdığım Script Dosyaları:
 BackGroundMusic
